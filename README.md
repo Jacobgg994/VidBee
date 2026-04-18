@@ -1,157 +1,64 @@
 <div align="left">
-  <a href="https://github.com/nexmoe/VidBee">
+  <a href="https://github.com/Jacobgg994/VidBee">
     <img src="apps/desktop/build/icon.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3>VidBee</h3>
   <p>
-    <a href="https://github.com/nexmoe/VidBee/stargazers"><img src="https://img.shields.io/github/stars/nexmoe/VidBee?color=ffcb47&labelColor=black&logo=github&label=Stars" /></a>
-    <a href="https://github.com/nexmoe/VidBee/graphs/contributors"><img src="https://img.shields.io/github/contributors/nexmoe/VidBee?ogo=github&label=Contributors&labelColor=black" /></a>
-    <a href="https://github.com/nexmoe/VidBee/releases"><img src="https://img.shields.io/github/downloads/nexmoe/VidBee/total?color=369eff&labelColor=black&logo=github&label=Downloads" /></a>
-    <a href="https://github.com/nexmoe/VidBee/releases/latest"><img src="https://img.shields.io/github/v/release/nexmoe/VidBee?color=369eff&labelColor=black&logo=github&label=Latest%20Release" /></a>
-    <a href="https://x.com/intent/follow?screen_name=nexmoex"><img src="https://img.shields.io/badge/Follow-blue?color=1d9bf0&logo=x&labelColor=black" /></a>
-    <a href="https://deepwiki.com/nexmoe/VidBee"><img src="https://deepwiki.com/badge.svg" alt="Ask DeepWiki"></a>
+    <a href="https://github.com/Jacobgg994/VidBee/stargazers"><img src="https://img.shields.io/github/stars/Jacobgg994/VidBee?color=ffcb47&labelColor=black&logo=github&label=Stars" /></a>
     <br />
     <br />
-    <a href="https://github.com/nexmoe/VidBee/releases/latest" target="_blank"><img src="screenshots/main-interface.png" alt="VidBee Desktop" width="46%"/></a>
-    <a href="https://github.com/nexmoe/VidBee/releases/latest" target="_blank"><img src="screenshots/download-queue.png" alt="VidBee Download Queue" width="46%"/></a>
+    <a href="https://github.com/Jacobgg994/VidBee/releases/latest" target="_blank"><img src="screenshots/main-interface.png" alt="VidBee Desktop" width="46%"/></a>
+    <a href="https://github.com/Jacobgg994/VidBee/releases/latest" target="_blank"><img src="screenshots/download-queue.png" alt="VidBee Download Queue" width="46%"/></a>
     <br />
     <br />
   </p>
 </div>
 
-VidBee is a modern, open-source video downloader that lets you download videos and audios from 1000+ websites worldwide. Built with Electron and powered by yt-dlp, VidBee offers a clean, intuitive interface with powerful features for all your downloading needs, including RSS auto-download automation that automatically subscribes to feeds and downloads new videos from your favorite creators in the background.
+**VidBee** คือโปรแกรมดาวน์โหลดวิดีโอโอเพนซอร์ซที่ทันสมัย ช่วยให้คุณดาวน์โหลดวิดีโอและเสียงจากเว็บไซต์ต่างๆ กว่า 1,000 แห่งทั่วโลก พัฒนาด้วย Electron และขับเคลื่อนด้วยขุมพลังของ yt-dlp โดย VidBee มาพร้อมกับอินเทอร์เฟซที่สะอาดตา ใช้งานง่าย และฟีเจอร์ที่ทรงพลัง รวมถึงระบบดาวน์โหลดอัตโนมัติผ่าน RSS ที่ช่วยให้คุณติดตามและดาวน์โหลดวิดีโอใหม่ๆ จากครีเอเตอร์ที่คุณชื่นชอบได้ทันทีในพื้นหลัง
 
-## 👋🏻 Getting Started
+## 🚀 เริ่มต้นใช้งาน
 
-VidBee is currently under active development, and feedback is welcome for any [issue](https://github.com/nexmoe/VidBee/issues) encountered.
+VidBee อยู่ระหว่างการพัฒนาอย่างต่อเนื่อง และเรายินดีรับฟังข้อเสนอแนะผ่าน [Issue](https://github.com/Jacobgg994/VidBee/issues) ครับ
 
-[📥 Download VidBee](https://vidbee.org/download/) | [📚 Documentation](https://docs.vidbee.org)
+[📥 ดาวน์โหลด VidBee](https://vidbee.org/download/) | [📚 เอกสารประกอบการใช้งาน](https://docs.vidbee.org)
 
-> [!IMPORTANT]
->
-> **Star Us**, You will receive all release notifications from GitHub without any delay ~
+## ✨ คุณสมบัติเด่น
 
-<a href="https://next.ossinsight.io/widgets/official/compose-last-28-days-stats?repo_id=1081230042" target="_blank" style="display: block" align="left">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-last-28-days-stats/thumbnail.png?repo_id=1081230042&image_size=auto&color_scheme=dark" width="655" height="auto">
-    <img alt="Performance Stats of nexmoe/VidBee - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-last-28-days-stats/thumbnail.png?repo_id=1081230042&image_size=auto&color_scheme=light" width="655" height="auto">
-  </picture>
-</a>
-
-<!-- Made with [OSS Insight](https://ossinsight.io/) -->
-
-## ✨ Features
-
-### 🌍 Global Video Download Support
-
-Download videos from almost any website worldwide through the powerful yt-dlp engine. Support for 1000+ sites including YouTube, TikTok, Instagram, Twitter, and many more.
+### 🌍 รองรับการดาวน์โหลดวิดีโอจากทั่วโลก
+ดาวน์โหลดวิดีโอจากแทบทุกเว็บไซต์ทั่วโลกผ่านเอนจิน yt-dlp ที่ทรงพลัง รองรับกว่า 1,000 ไซต์ รวมถึง YouTube, TikTok, Instagram, Twitter และอื่นๆ อีกมากมาย
 
 ![VidBee Main Interface](screenshots/main-interface.png)
 
-### 🎨 Best-in-class UI Experience
-
-Modern, clean interface with intuitive operations. One-click pause/resume/retry, real-time progress tracking, and comprehensive download queue management.
+### 🎨 ประสบการณ์ UI ที่ดีที่สุด
+อินเทอร์เฟซที่ทันสมัย สะอาดตา และใช้งานง่าย สามารถกดหยุด/เริ่มต่อ/ลองใหม่ได้ในคลิกเดียว พร้อมการติดตามความคืบหน้าแบบเรียลไทม์ และระบบจัดการคิวการดาวน์โหลดที่ครอบคลุม
 
 ![VidBee Download Queue](screenshots/download-queue.png)
 
-### 📡 RSS Auto Download
+### 📡 ดาวน์โหลดอัตโนมัติผ่าน RSS
+สมัครรับข้อมูล RSS และดาวน์โหลดวิดีโอใหม่ๆ ในพื้นหลังโดยอัตโนมัติจากครีเอเตอร์คนโปรดของคุณใน YouTube, TikTok และแพลตฟอร์มอื่นๆ ตั้งค่าเพียงครั้งเดียว VidBee จะจัดการดาวน์โหลดวิดีโอใหม่ให้เองโดยไม่ต้องกดมือ
 
-Automatically subscribe to RSS feeds and auto-download new videos in the background from your favorite creators across YouTube, TikTok, and more. Set up RSS subscriptions once, and VidBee will automatically download new uploads without manual intervention, perfect for keeping up with your favorite channels and creators.
+## 🧩 เว็บไซต์ที่รองรับ
+VidBee รองรับแพลตฟอร์มวิดีโอและเสียงกว่า 1,000 แห่งผ่าน yt-dlp สามารถดูรายชื่อเว็บไซต์ที่รองรับทั้งหมดได้ที่ [https://vidbee.org/supported-sites/](https://vidbee.org/supported-sites/)
 
-## 🌐 Supported Sites
+## 🏗️ โครงสร้าง Monorepo
+โปรเจกต์นี้ประกอบด้วย:
+- `apps/desktop`: แอปพลิเคชัน VidBee สำหรับเดสก์ท็อป (Electron)
+- `apps/api`: เซิร์ฟเวอร์ API (Fastify)
+- `apps/web`: เว็บไซต์ลูกข่าย (TanStack Start)
+- `apps/extension`: ส่วนขยายเบราว์เซอร์ (WXT)
 
-VidBee supports 1000+ video and audio platforms through yt-dlp. For the complete list of supported sites, visit [https://vidbee.org/supported-sites/](https://vidbee.org/supported-sites/)
-
-## 🧱 Web + API (Docker-ready)
-
-This monorepo now includes:
-
-- `packages/downloader-core`: Shared yt-dlp/ffmpeg download core
-- `apps/api`: Fastify API server with oRPC and SSE events
-- `apps/web`: TanStack Start web client using oRPC
-
-Run locally:
-
-```bash
-pnpm run start:web
-```
-
-This command starts `apps/api` and `apps/web` together.
-
-Run with Docker:
-
+## 🐳 การใช้งานด้วย Docker
+คุณสามารถรัน VidBee ผ่าน Docker Compose ได้ง่ายๆ:
 ```bash
 docker compose up -d --build
 ```
 
-Run with GitHub Container Registry images:
+## 📜 ใบอนุญาต (License)
+โปรเจกต์นี้เผยแพร่ภายใต้ใบอนุญาต MIT ดูรายละเอียดได้ที่ไฟล์ [`LICENSE`](LICENSE)
 
-```yaml
-services:
-  api:
-    image: ghcr.io/nexmoe/vidbee-api:latest
-    environment:
-      VIDBEE_API_HOST: 0.0.0.0
-      VIDBEE_API_PORT: 3100
-      VIDBEE_DOWNLOAD_DIR: /data/downloads
-      VIDBEE_HISTORY_STORE_PATH: /data/vidbee/vidbee.db
-    ports:
-      - "3100:3100"
-    volumes:
-      - vidbee-downloads:/data/downloads
-      - vidbee-data:/data/vidbee
-    restart: unless-stopped
-
-  web:
-    image: ghcr.io/nexmoe/vidbee-web:latest
-    depends_on:
-      - api
-    ports:
-      - "3000:3000"
-    restart: unless-stopped
-
-volumes:
-  vidbee-downloads:
-  vidbee-data:
-```
-
-Stop services:
-
-```bash
-docker compose down
-```
-
-Optional env vars (via `.env`):
-
-```bash
-VIDBEE_API_PORT=3100
-VIDBEE_WEB_PORT=3000
-VITE_API_URL=http://localhost:3100
-```
-
-## 🤝 Contributing
-
-You are welcome to join the open source community to build together. For more details, check out:
-
-- Monorepo apps:
-  - `apps/desktop`: VidBee desktop app (Electron)
-  - `apps/docs`: Documentation site (Next.js)
-  - `apps/extension`: Browser extension (WXT)
-  - `apps/desktop/docs/glitchtip.md`: GlitchTip and `sentry-cli` setup for desktop monitoring
-- [Contributing Guide](./CONTRIBUTING.md)
-- [DeepWiki Documentation](https://deepwiki.com/nexmoe/VidBee)
-
-## 📄 License
-
-This project is distributed under the MIT License. See [`LICENSE`](LICENSE) for details.
-
-## 🙏 Thanks
-
-- [yt-dlp](https://github.com/yt-dlp/yt-dlp) - The powerful video downloader engine
-- [FFmpeg](https://ffmpeg.org/) - The multimedia framework for video and audio processing
-- [Electron](https://www.electronjs.org/) - Build cross-platform desktop apps
-- [React](https://react.dev/) - The UI library
-- [Vite](https://vitejs.dev/) - Next generation frontend tooling
-- [Tailwind CSS](https://tailwindcss.com/) - Utility-first CSS framework
-- [shadcn/ui](https://ui.shadcn.com/) - Beautifully designed components
+## 🙏 ขอบคุณ
+- [yt-dlp](https://github.com/yt-dlp/yt-dlp) - เอนจินดาวน์โหลดวิดีโอที่ทรงพลัง
+- [FFmpeg](https://ffmpeg.org/) - เฟรมเวิร์กมัลติมีเดียสำหรับการประมวลผลวิดีโอและเสียง
+- [Electron](https://www.electronjs.org/) - สำหรับสร้างแอปเดสก์ท็อป
+- [React](https://react.dev/) & [Tailwind CSS](https://tailwindcss.com/) - สำหรับส่วนติดต่อผู้ใช้
